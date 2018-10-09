@@ -1,0 +1,7 @@
+---
+database:
+  username: marcosportela
+  password: marcospass123
+  host: localhost
+  port: 5432
+  databaseName: fave_reads
